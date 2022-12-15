@@ -36,7 +36,8 @@ for running our app, You have to install python or anaconda on your pc or server
 
     `python manage.py runserver`
 
-# postgresql install and create new database as named hotel using pgadmin4
+# postgresql
+install and create new database as named hotel using pgadmin4
 
 4. Load test data (Optional):
 
