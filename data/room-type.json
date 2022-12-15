@@ -1,0 +1,29 @@
+[
+    {
+        "model": "room.roomtype",
+        "pk": "036f4719-e696-4086-b934-395f48640866",
+        "fields": {
+            "name": "Deluxe",
+            "capacity": 4,
+            "price": "1000"
+        }
+    },
+    {
+        "model": "room.roomtype",
+        "pk": "32c687df-e80c-446a-a959-5eb0b98f6b1c",
+        "fields": {
+            "name": "Premium",
+            "capacity": 3,
+            "price": "700"
+        }
+    },
+    {
+        "model": "room.roomtype",
+        "pk": "7feeda08-d861-433c-ac8a-88ccf16fbe1c",
+        "fields": {
+            "name": "Regular",
+            "capacity": 2,
+            "price": "400"
+        }
+    }
+]

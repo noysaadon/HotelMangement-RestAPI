@@ -1,0 +1,34 @@
+[
+    {
+        "model": "room.foodcategory",
+        "pk": "4a64056c-10f2-4b02-bd4d-8e94b46d5c5d",
+        "fields": {
+            "name": "Beer",
+            "price_per": "20"
+        }
+    },
+    {
+        "model": "room.foodcategory",
+        "pk": "845e8676-8a01-49ae-9ea1-bcf7f009d144",
+        "fields": {
+            "name": "Potato Chips",
+            "price_per": "10"
+        }
+    },
+    {
+        "model": "room.foodcategory",
+        "pk": "d4d020aa-3c38-469b-8410-3357e140c98e",
+        "fields": {
+            "name": "Soda",
+            "price_per": "15"
+        }
+    },
+    {
+        "model": "room.foodcategory",
+        "pk": "50adcaa0-962e-450f-9fd5-cc1fd6258b8d",
+        "fields": {
+            "name": "Chocolate Bar",
+            "price_per": "12"
+        }
+    }
+]

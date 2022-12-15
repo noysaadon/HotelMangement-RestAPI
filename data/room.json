@@ -1,0 +1,92 @@
+[
+    {
+        "model": "room.room",
+        "pk": "f49df37e-35aa-48e4-a78d-3b08d5104cfa",
+        "fields": {
+            "number": "101",
+            "room_type": "036f4719-e696-4086-b934-395f48640866",
+            "marked_for_booking": false
+        }
+    },
+    {
+        "model": "room.room",
+        "pk": "5ae06774-7fc9-46f9-9d50-a9aad9ac6ce4",
+        "fields": {
+            "number": "102",
+            "room_type": "036f4719-e696-4086-b934-395f48640866",
+            "marked_for_booking": false
+        }
+    },
+    {
+        "model": "room.room",
+        "pk": "c4293cce-fca9-42f1-924d-b2da80472b39",
+        "fields": {
+            "number": "103",
+            "room_type": "036f4719-e696-4086-b934-395f48640866",
+            "marked_for_booking": false
+        }
+    },
+    {
+        "model": "room.room",
+        "pk": "d2427557-3c72-4402-92de-53a5b6b27b9f",
+        "fields": {
+            "number": "104",
+            "room_type": "32c687df-e80c-446a-a959-5eb0b98f6b1c",
+            "marked_for_booking": false
+        }
+    },
+    {
+        "model": "room.room",
+        "pk": "109c931d-e53c-4582-a267-bab2a38be310",
+        "fields": {
+            "number": "105",
+            "room_type": "32c687df-e80c-446a-a959-5eb0b98f6b1c",
+            "marked_for_booking": false
+        }
+    },
+    {
+        "model": "room.room",
+        "pk": "13ccec88-bb0d-4254-ad56-03b39b0f983f",
+        "fields": {
+            "number": "106",
+            "room_type": "32c687df-e80c-446a-a959-5eb0b98f6b1c",
+            "marked_for_booking": false
+        }
+    },
+    {
+        "model": "room.room",
+        "pk": "a9dc8a11-0b53-4a60-84fa-0d8ad7cb0ed0",
+        "fields": {
+            "number": "107",
+            "room_type": "7feeda08-d861-433c-ac8a-88ccf16fbe1c",
+            "marked_for_booking": false
+        }
+    },
+    {
+        "model": "room.room",
+        "pk": "4328fc06-d115-4ea3-94f6-e3e5b34ba2e4",
+        "fields": {
+            "number": "108",
+            "room_type": "7feeda08-d861-433c-ac8a-88ccf16fbe1c",
+            "marked_for_booking": false
+        }
+    },
+    {
+        "model": "room.room",
+        "pk": "22d1468b-1fa7-4ccc-8fe4-f7959b96a52e",
+        "fields": {
+            "number": "109",
+            "room_type": "7feeda08-d861-433c-ac8a-88ccf16fbe1c",
+            "marked_for_booking": false
+        }
+    },
+    {
+        "model": "room.room",
+        "pk": "1ea40829-1d3a-4aa8-9b92-6f8aac825877",
+        "fields": {
+            "number": "110",
+            "room_type": "7feeda08-d861-433c-ac8a-88ccf16fbe1c",
+            "marked_for_booking": false
+        }
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "model": "room.discount",
+        "pk": "c1c07077-02ad-4b79-aa63-830a97663346",
+        "fields": {
+            "name": "No discount",
+            "percent": 0
+        }
+    },
+    {
+        "model": "room.discount",
+        "pk": "2c86e467-755c-414c-a34a-0f896089a3e0",
+        "fields": {
+            "name": "Discount 1",
+            "percent": 1.5
+        }
+    },
+    {
+        "model": "room.discount",
+        "pk": "468bcb26-4b2a-45d6-81fe-28969baa3923",
+        "fields": {
+            "name": "Discount 2",
+            "percent": 2.5
+        }
+    },
+    {
+        "model": "room.discount",
+        "pk": "f7c02d22-4914-49dd-8ee1-e0188485ebf1",
+        "fields": {
+            "name": "Discount 3",
+            "percent": 5
+        }
+    },
+    {
+        "model": "room.discount",
+        "pk": "5a0e0375-f2e5-45b8-abc2-03ff2f8db536",
+        "fields": {
+            "name": "Discount 4",
+            "percent": 10
+        }
+    }
+]
